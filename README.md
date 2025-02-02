@@ -25,3 +25,7 @@ Topic-Assignment-6(Strings and Built-In-Functions Practice Problems) completed
 Day-7
 Date-31-01-25
 Topic-Assignment-7 completed
+
+Day-8
+Date-02-02-25
+Topic-Assignment-8 completed
