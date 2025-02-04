@@ -3,9 +3,9 @@ Date-19/01/25
 
 Topics covered:
 
-*Prerequisite Installation Guide for Git Bash, a Text Editor (Notepad++), Java, and GitHub Setup
+* Prerequisite Installation Guide for Git Bash, a Text Editor (Notepad++), Java, and GitHub Setup
 
-*Java Fundamentals
+* Java Fundamentals
 
 Status-Assignment-1 completed
 
@@ -78,9 +78,9 @@ Date-29/01/25
 
 Topic covered:
 
-*Handling strings and common string functions
-*Functions and function parameter passing, return the value of function.
-*Usage of how to use common Built-in Functions and build the logic
+* Handling strings and common string functions
+* Functions and function parameter passing, return the value of function.
+* Usage of how to use common Built-in Functions and build the logic
 
 Status-Assignment-6(Strings and Built-In-Functions Practice Problems) completed
 
@@ -89,8 +89,8 @@ Date-31/01/25
 
 Topic covered:
 
-*Procedural vs Object-oriented Programming Language
-*Class and Object
+* Procedural vs Object-oriented Programming Language
+* Class and Object
 
 Status-Assignment-7 completed
 
@@ -110,10 +110,10 @@ Date-04/02/25
 
 Topic covered:
 
-*this
-*static
-*final
-*instanceof operator
+* this
+* static
+* final
+* instanceof operator
 
 Status-Assignment-9 completed
 
