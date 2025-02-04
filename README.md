@@ -1,6 +1,13 @@
 Day-1
 Date-19/01/25
-Topic-Assignment-1 completed
+
+Topics covered:
+
+*Prerequisite Installation Guide for Git Bash, a Text Editor (Notepad++), Java, and GitHub Setup
+
+*Java Fundamentals
+
+Status-Assignment-1 completed
 
 Day-2
 Date-21-01-25
