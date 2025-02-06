@@ -117,3 +117,14 @@ Topic covered:
 
 Status-Assignment-9 completed
 
+Day-10
+Date-06/02/25
+
+Topic covered:
+
+Object Oriented Design Principles
+- Class Diagram
+- Object Diagrams
+- Sequence Diagrams
+
+Status-Assignment-10 completed
