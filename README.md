@@ -145,3 +145,15 @@ Topic covered:
 - Access Modifiers and Inheritance
 
 Status-Assignment-11 completed
+
+Day-12
+Date-10/02/25
+
+Topic covered:
+
+- Encapsulation
+- Polymorphism 
+- Interface
+- Abstract Classes
+
+Status-Assignment-12 completed
