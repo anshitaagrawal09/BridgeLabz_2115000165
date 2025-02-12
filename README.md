@@ -157,3 +157,17 @@ Topic covered:
 - Abstract Classes
 
 Status-Assignment-12 completed
+
+Day-13
+Date-12/02/25
+
+Topic covered:
+
+- Introduction of Data Structure 
+- Key Features of Data Structures in Java
+- Types of Data Structures in Java
+- Single Linked List
+- Double Linked List
+- Circular Linked List
+
+Status-Assignment-13 completed
