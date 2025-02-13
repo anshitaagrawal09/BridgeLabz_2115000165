@@ -171,3 +171,15 @@ Topic covered:
 - Circular Linked List
 
 Status-Assignment-13 completed
+
+Day-14
+Date-13/02/25
+
+Topic covered:
+
+- Stack
+- Queue
+- HashMap and Hashing Function
+
+Status-Assignment-14 completed
+
