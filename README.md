@@ -183,3 +183,18 @@ Topic covered:
 
 Status-Assignment-14 completed
 
+Day-15
+Date-14/02/25
+
+Topic covered:
+
+- Bubble Sort,
+- Insertion Sort,
+- Merge Sort, and
+- Quick Sort
+- Counting Sort
+- Selection Sort
+- Heap Sort
+
+Status-Assignment-15 completed
+
