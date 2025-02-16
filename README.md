@@ -198,3 +198,17 @@ Topic covered:
 
 Status-Assignment-15 completed
 
+Day-16
+Date-16/02/25
+
+Topic covered:
+
+- StringBuilder
+- StringBuffer
+- FileReader
+- InputStreamReader
+- Linear Search 
+- Binary Search
+
+Status-Assignment-16 completed
+
