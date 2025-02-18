@@ -226,3 +226,17 @@ Topic covered:
 
 Status-Assignment-17 completed
 
+Day-18
+Date-18/02/25
+
+Topic covered:
+
+* Introduction to Generics
+* Type Parameters
+* Generic Classes
+* Generic Methods
+* Bounded Type Parameters
+* Wildcards
+
+Status-Assignment-18 completed
+
