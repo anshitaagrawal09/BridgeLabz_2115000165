@@ -240,3 +240,20 @@ Topic covered:
 
 Status-Assignment-18 completed
 
+Day-19
+Date-20/02/25
+
+Topic covered:
+
+- Overview of Collections Framework
+- What is the Collections Framework?
+- Hierarchy of Collections Framework
+- List Interface and Implementing Classes
+- Set Interface and Implementing Classes
+- Queue and Deque Interfaces
+- Map Interface and Its Implementations
+- Comparison of Different Implementations
+- Real-World Use Cases and Best Practices.
+
+Status-Assignment-19 completed
+
