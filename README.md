@@ -257,3 +257,36 @@ Topic covered:
 
 Status-Assignment-19 completed
 
+Day-20
+Date-21/02/25
+
+Topic covered:
+
+- Java I/O Streams
+- Types of Streams
+1. File Streams
+2. Object Streams
+3. ByteArray Streams
+4. Buffered Streams
+5. Reader and Writer
+- Key Considerations
+- Best Practices
+	
+
+- Exceptions 
+- Types of Exceptions
+- Checked Exceptions,
+- Unchecked Exceptions
+- Custom Exceptions
+- Handling Exceptions 
+- try-catch blocks
+- try-catch-finally blocks
+- try-with-resources statement
+- throws clause
+- throw statement
+- Creating Custom Exceptions
+- Extending Exception Class
+- Defining Constructors
+
+Status-Assignment-20 and Assignment-21 completed
+
