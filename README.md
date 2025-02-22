@@ -290,3 +290,31 @@ Topic covered:
 
 Status-Assignment-20 and Assignment-21 completed
 
+Day-21
+Date-22/02/25
+
+Topic covered:
+
+- Regex 
+- MetaCharacter
+- Quantifier
+
+* Common Patterns:
+- Email Validation
+- Password Strength
+- Phone Number Format 
+- Java Regex API 
+- Pattern
+- Matcher
+- Methods:
+- find()
+- matches()
+- replaceAll()
+- Introduction to JUnit Framework
+- JUnit Annotations
+- Writing Test Cases
+- Structure of a Test Class
+- Assertions
+
+Status-Assignment-22 completed
+
