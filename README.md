@@ -318,3 +318,23 @@ Topic covered:
 
 Status-Assignment-22 completed
 
+Day-22
+Date-24/02/25
+
+Topic covered:
+
+- Introduction to Annotations
+
+- Common Built-in Annotations
+- Creating Custom Annotations
+- Advanced Custom Annotations
+- Real-World Use Cases
+- Annotation Processing Tools
+
+- Reflection
+- Understanding of Reflection
+- Using Reflection in Java
+- Annotations and Reflection
+
+Status-Assignment-23 completed
+
