@@ -338,3 +338,17 @@ Topic covered:
 
 Status-Assignment-23 completed
 
+Day-23
+Date-25/02/25
+
+Topic covered:
+	
+- CSV Data Handling
+- Introduction to CSV
+- Reading CSV Files
+- Writing CSV Files
+- Parsing CSV Data
+- Data Validation
+
+Status-Assignment-24 completed
+
