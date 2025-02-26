@@ -352,3 +352,18 @@ Topic covered:
 
 Status-Assignment-24 completed
 
+Day-24
+Date-26/02/25
+
+Topic covered:
+
+	
+- JSON Data
+- Introduction to JSON
+- Reading JSON Data
+- Writing JSON Data
+- Parsing JSON Data
+- JSON Schema Validation
+
+Status-Assignment-25 completed
+
